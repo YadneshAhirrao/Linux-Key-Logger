@@ -8,6 +8,7 @@ The following instructions will install Keylogger using pip3 .
 ```
   pip3 install pyxhook
 ```
+`pyxhook` is a Python library used for capturing and handling keyboard events.
 
 ## How to run it
 
