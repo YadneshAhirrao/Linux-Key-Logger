@@ -1,6 +1,6 @@
 # Linux-Key-Logger
 
-**Linux-Key-Loggerr** is a simple keylogger for Linux.
+**Linux-Key-Logger** is a simple keylogger for Linux.
 ## Installation
 
 The following instructions will install Keylogger using pip3 .
